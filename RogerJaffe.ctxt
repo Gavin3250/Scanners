@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RogerJaffe
+comment0.text=\r\n\ A\ BoopleSnoot\ is\ Mr.\ Jaffe's\ animal\r\n\ \r\n\ @author\ Mr.\ Jaffe\r\n\ @version\ 1.0\ 2017-07-14\r\n
+comment1.params=
+comment1.target=RogerJaffe()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+numComments=3
